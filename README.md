@@ -1,7 +1,7 @@
 <p align="center">
     <image src="https://www.fsbot.xyz/assets/image/fsbot.webp" width="250px" ></image>
     <h1 align="center">
-        <b>🍤炸蝦機器人[FSBOT]🍤</b>
+        <b>🍤炸蝦機器人-FSBOT🍤</b>
     </h1>
 </p>
 
