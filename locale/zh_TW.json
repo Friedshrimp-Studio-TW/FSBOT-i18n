@@ -175,6 +175,10 @@
     "guildlogsetvalue2description": "➡️選擇您要發送紀錄的頻道",
     "guildlogremovecommand": "移除",
     "guildlogremovecommanddescription": "🍤【FSBOT】移除群組紀錄(指令:/群組紀錄 移除)",
+    "pollcommand": "投票",
+    "pollcommanddescription": "🍤【FSBOT】投票(指令:/投票)",
+    "pollsetcommand": "設定",
+    "pollsetcommanddescription": "🍤【FSBOT】設置投票(指令:/投票 設定)",
 
     "suggestionchannelcommand": "建議頻道",
     "suggestionchannelcommanddescription": "🍤【FSBOT】建議系統(指令:/建議頻道)",
@@ -267,7 +271,7 @@
     "discordidsendsuccess": "{0} 您的Discord使用者ID是 `{1}`",
 
     "acceptruletitle": "您尚未接受本機器人服務條款!",
-    "acceptruledescription": "您必須接受本機器人[服務條款](https://fsbot.xyz/#privacypolicy)\n並同意我們[隱私權政策](https://fsbot.xyz/#tos)才可使用機器人!\n\n若您不同意則無法使用本機器人!",
+    "acceptruledescription": "您必須詳閱並接受詳閱並接受本機器人[服務條款]({0})與同意我們[隱私權政策]({1})才可使用機器人!\n\n若您不同意則無法使用本機器人!",
     "acceptrulebutton": "同意",
     "denyrulebutton": "拒絕",
     "acceptrulesendsuccess": "您已接受本機器人隱私權政策與服務條款!",
